@@ -1,0 +1,19 @@
+## 📌 Contents & Description
+
+### 🔢 Quant (Quantitative Reasoning)
+- `ProblemSolving.json`: Full dataset
+- Split files based on `subtype-type`:
+  - `quant_algebra.json`
+  - `quant_arithmetic.json`
+  - `quant_numberproperties.json`
+  - `quant_statistics.json`
+  - `quant_wordproblem.json`
+
+### 🧠 Verbal Reasoning
+- `CriticalReasoning.json`: Contains CR questions
+- `ReadingComprehension.json`: Contains RC passages and questions
+
+### 📈 Data Insights
+- `DataSufficiency.json`: GMAT-style DS problems
+- `IntergratedReasoning.json`: Multi-source and two-part analysis questions
+
