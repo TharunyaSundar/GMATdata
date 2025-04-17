@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question_id": 6,
+      "question_id": 1,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -17,7 +17,7 @@
       "difficulty": "Challenging"
     },
     {
-      "question_id": 35,
+      "question_id": 2,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -33,7 +33,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 37,
+      "question_id": 3,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -49,7 +49,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 39,
+      "question_id": 4,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -65,7 +65,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 42,
+      "question_id": 5,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -81,7 +81,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 43,
+      "question_id": 6,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -97,7 +97,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 50,
+      "question_id": 7,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -113,7 +113,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 51,
+      "question_id": 8,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -129,7 +129,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 54,
+      "question_id": 9,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -145,7 +145,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 72,
+      "question_id": 10,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -161,7 +161,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 73,
+      "question_id": 11,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -177,7 +177,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 77,
+      "question_id": 12,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -193,7 +193,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 78,
+      "question_id": 13,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -209,7 +209,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 85,
+      "question_id": 14,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -225,7 +225,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 90,
+      "question_id": 15,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -241,7 +241,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 91,
+      "question_id": 16,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -257,7 +257,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 92,
+      "question_id": 17,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -273,7 +273,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 94,
+      "question_id": 18,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -289,7 +289,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 96,
+      "question_id": 19,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -305,7 +305,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 102,
+      "question_id": 20,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Statistics",
@@ -318,6 +318,326 @@
         "E": "6/42"
       },
       "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 21,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "In the xy-plane, ten points are selected from the line with equation y = 0.8x - 24. If the range of the y coordinates of the ten points is 7, what is the range of the x-coordinates of the ten points?",
+      "options": {
+        "A": "3.2",
+        "B": "6.25",
+        "C": "8.75",
+        "D": "9.4",
+        "E": "11.75"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 22,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "Set A consists of integers -9, 8, 3, 10, and J; Set B consists of integers -2, 5, 0, 7, -6, and T. If R is the median of Set A and W is the mode of Set B, and R^W is a factor of 34, what is the value of T if J is negative?",
+      "options": {
+        "A": "-2",
+        "B": "0",
+        "C": "1",
+        "D": "2",
+        "E": "5"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 23,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "We define the average (harmonic mean) as the reciprocal of the average (arithmetic mean) of reciprocals. What is the average (harmonic mean) of 2, 3, and 6?",
+      "options": {
+        "A": "1/3",
+        "B": "1/2",
+        "C": "1",
+        "D": "2",
+        "E": "3"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 24,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "The mean for four positive distinct integers is 24. If the median of four numbers is 18, what is the largest possible range of the four numbers?",
+      "options": {
+        "A": "60",
+        "B": "58",
+        "C": "59",
+        "D": "52",
+        "E": "48"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 25,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "The median of 5 numbers is 50, and their range is 40. If the median of the 3 smallest numbers is 40, which of the following could represent the range of the 3 largest numbers?\n\nI. 0\nII. 20\nIII. 40",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and II only",
+        "D": "I and III only",
+        "E": "I, II and III"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 26,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "In a certain apartment building, there are one-bedroom and two-bedroom apartments. The rental prices of the apartment depend on a number of factors, but on average, two-bedroom apartments have higher rental prices than do one-bedroom apartments. Let R be the average rental price for all apartments in the building. If R is $5,600 higher than the average rental price for all one-bedroom apartments, and if the average rental price for all two-bedroom apartments is $10,400 higher than R, then what percentage of apartments in the building are two-bedroom apartments?",
+      "options": {
+        "A": "26%",
+        "B": "35%",
+        "C": "39%",
+        "D": "42%",
+        "E": "52%"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 27,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "10 distinct integers are arranged in ascending order. The range of the first 7 is 25 and that of the last 7 is 30. What is the maximum range of the 10 numbers?",
+      "options": {
+        "A": "25",
+        "B": "27",
+        "C": "30",
+        "D": "52",
+        "E": "55"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 28,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "A set of 5 numbers has an average of 50. The largest element in the set is 5 greater than 3 times the smallest element in the set. If the median of the set equals the mean, what is the largest possible value in the set?",
+      "options": {
+        "A": "85",
+        "B": "86",
+        "C": "88",
+        "D": "91",
+        "E": "92"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 29,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "If 60 students took a test and the median score was 80, which of the following must be true?\n\nI. At least 29 scores are greater than 80\nII. At least 30 scores are equal to or greater than 80\nIII. At most 30 scores are equal to or less than 80",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I and II only",
+        "E": "I and III only"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 30,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "If x, y, and z are consecutive odd integers and x < 0 and z > 0, then what is the range of possible values of xyz?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "3",
+        "D": "4",
+        "E": "6"
+      },
+      "correct_answer": "E",
+      "difficulty": "Easy"
+    },
+    {
+      "question_id": 31,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "The average of 4 consecutive odd numbers is half that of the average of 5 consecutive even numbers. If the sum of these two averages is 18, then the difference between the largest and smallest of these numbers is:",
+      "options": {
+        "A": "10",
+        "B": "21",
+        "C": "7",
+        "D": "13",
+        "E": "5"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 32,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "A set of 15 different integers has a median of 25 and a range of 25. What is the greatest possible integer that could be in this set?",
+      "options": {
+        "A": "32",
+        "B": "37",
+        "C": "40",
+        "D": "43",
+        "E": "50"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 33,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "S is a set containing 9 different numbers. T is a set containing 8 different numbers, all of which are members of S. Which of the following statements cannot be true?",
+      "options": {
+        "A": "The mean of S is equal to the mean of T",
+        "B": "The median of S is equal to the median of T",
+        "C": "The range of S is equal to the range of T",
+        "D": "The mean of S is greater than the mean of T",
+        "E": "The range of S is less than the range of T"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 34,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "By adding n into the set {3, 6, 9, 10}, the average becomes equal to the median. What is the sum of all possible values of n?",
+      "options": {
+        "A": "24",
+        "B": "26",
+        "C": "28",
+        "D": "30",
+        "E": "32"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 35,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "There are 40 people: 28 invested in A, 16 invested in B, and 18 invested in C. Among 10 of the people who invested in both A and C, 3 also invested in B. All people who invested in B also invested in A. How many people did not invest in any of the three investments?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "E": "6"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 36,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "Integers from 1 to 25 (both inclusive) are split into 5 groups of 5 numbers each. The medians of these 5 groups are A, B, C, D and E. If the average of these medians is m, what is the largest value m can take?",
+      "options": {
+        "A": "16",
+        "B": "17",
+        "C": "18",
+        "D": "19",
+        "E": "20"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 37,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "The median and mean of list S = {3, 8, -1, 7, 4} can be made equal by including which of the following numbers to S?",
+      "options": {
+        "A": "12",
+        "B": "9",
+        "C": "3",
+        "D": "-2",
+        "E": "-3"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 38,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "Integers from 1 to 25 (both inclusive) are split into 5 groups of 5 numbers each. The medians of these 5 groups are A, B, C, D and E. If the average of these medians is m, what is the smallest value m can take?",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10",
+        "E": "11"
+      },
+      "correct_answer": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 39,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "In Set T, the average (arithmetic mean) equals the median. Which of the following must be true?\n\nI. Set T consists of evenly spaced numbers.\nII. Set T consists of an odd number of terms.\nIII. Set T has no mode.\nIV. None of the above.",
+      "options": {
+        "A": "I only",
+        "B": "I and II",
+        "C": "II and III",
+        "D": "I, II, and III",
+        "E": "IV only"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 40,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Statistics",
+      "question": "2 , 3 , 3 , 4 , 6 , 8 , 12 , 15 , 18 , 21 , 24 , 28\n\nThe list above shows the weight, in grams, of 12 plants grown in an experimental greenhouse. If the standard deviation of the weights is 9, how many of the 12 plants are more than 1.5 standard deviations above the mean?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "B",
       "difficulty": "Medium"
     }
   ]

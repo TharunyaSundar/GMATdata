@@ -13,7 +13,38 @@
 - `CriticalReasoning.json`: Contains CR questions
 - `ReadingComprehension.json`: Contains RC passages and questions
 
-### 📈 Data Insights
-- `DataSufficiency.json`: GMAT-style DS problems
-- `IntergratedReasoning.json`: Multi-source and two-part analysis questions
+
+## 📊 Data Insights
+
+This section contains all image-based and text-based GMAT-style Data Insights questions, organized by type and format.
+
+---
+
+### 📁 `DataSuffciency/`
+
+#### 🔸 DSquestions/
+- `DataSufficiency.json`: Master dataset of all text-based Data Sufficiency questions.
+
+#### 🔸 Imagedata/
+- `DSimages/`: Folder containing screenshots (`.png`) of Data Sufficiency questions.
+- `DataSufficiencyImg.json`: JSON file referencing the DS images.
+
+---
+
+### 📁 `IntergratedReasoning/`
+
+#### 🔸 IRquestions/
+- Future directory for IR text-based questions (currently empty or unused).
+
+#### 🔸 Imagedata/
+This directory contains categorized image-based IR questions and related JSON mappings.
+
+
+| `IntergratedReasoningImg.json` | Raw combined JSON with all image-based IR questions |
+| `IR_GraphsIMG.json` | Questions tagged under `Graphs` subtype |
+| `IR_TablesIMG.json` | Questions tagged under `Tables` subtype |
+| `IR_Multi_Source_ReasoningIMG.json` | Questions of type `Multi Source Reasoning` |
+| `IR_Two_part_analysisIMG.json` | Questions of type `Two Part Analysis` |
+| `IRimages/` | Directory containing `.png` screenshots of IR questions |
+
 

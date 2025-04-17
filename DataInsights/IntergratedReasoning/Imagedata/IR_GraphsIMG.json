@@ -1,0 +1,200 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q1.png",
+      "options": [
+        "A",
+        "B",
+        "none of the above"
+      ],
+      "correct_answer": [
+        "B",
+        3
+      ]
+    },
+    {
+      "question_id": 2,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q2.png",
+      "options": [
+        "Campaign A",
+        "Campaign B",
+        "Campaign C",
+        "Campaign D",
+        "Campaign E",
+        1.7,
+        2.7,
+        3.3,
+        5.5
+      ],
+      "correct_answer": [
+        "Campaign A",
+        5.5
+      ]
+    },
+    {
+      "question_id": 3,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q3.png",
+      "options": [
+        "Posituve",
+        "Negative",
+        "No",
+        2.5,
+        5,
+        6
+      ],
+      "correct_answer": [
+        "Positive",
+        2.5
+      ]
+    },
+    {
+      "question_id": 6,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q6.png",
+      "options": [
+        "Electronics",
+        "Clothing",
+        "Furniture",
+        20000,
+        25000,
+        35000,
+        40000,
+        60000
+      ],
+      "correct_answer": [
+        "Electronics",
+        60000
+      ]
+    },
+    {
+      "question_id": 7,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q7.png",
+      "options": [
+        "Peanut and Chicken Breast",
+        "Whole Egg and Peanut",
+        "Soybean and Peanut",
+        "Soybean and Chicken Breast",
+        "Shrimp and Salmon",
+        "Shrimp and Pork Chops",
+        "Spinach and Shrimp",
+        "Shrimp and Ground Beef"
+      ],
+      "correct_answer": [
+        "Peanut and Chicken Breast",
+        "Shrimp and Pork Chops"
+      ]
+    },
+    {
+      "question_id": 8,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q8.png",
+      "options": [
+        "Less than",
+        "Equal to",
+        "Greater than",
+        "Less than",
+        "Equal to",
+        "Greater than"
+      ],
+      "correct_answer": [
+        "Less than",
+        "Greater than"
+      ]
+    },
+    {
+      "question_id": 9,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q9.png",
+      "options": [
+        "Small",
+        "Medium",
+        "Larger",
+        "Small",
+        "Medium",
+        "Larger"
+      ],
+      "correct_answer": [
+        "Small",
+        "Larger"
+      ]
+    },
+    {
+      "question_id": 10,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q10.png",
+      "options": [
+        "less than 55% but greater than 2.5%",
+        "less than 50% but greater than 20%",
+        "less than 40% but greater than 25%",
+        "none of the above"
+      ],
+      "correct_answer": [
+        "less than 55% but greater than 2.5%"
+      ]
+    },
+    {
+      "question_id": 11,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q11.png",
+      "options": [
+        "Marketing",
+        "HR",
+        "R&D",
+        "IT",
+        "Sales",
+        "100%",
+        "200%",
+        "300%",
+        "400%"
+      ],
+      "correct_answer": [
+        "Marketing",
+        "200%"
+      ]
+    },
+    {
+      "question_id": 12,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Graphs",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q11.png",
+      "options": [
+        "Fridge",
+        "HVAC",
+        "Lighting",
+        "Washer/Dryer",
+        "Others",
+        "20%",
+        "40%",
+        "60%"
+      ],
+      "correct_answer": [
+        "HVAC",
+        "40%"
+      ]
+    }
+  ]
+}

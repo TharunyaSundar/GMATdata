@@ -1,0 +1,426 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "A message had been coded by replacing each letter with a certain different one. Then it was transmitted. The words “pliot” and “awful” were in the original message. In the table below, which could their coded versions be if, after receiving the message, it was properly decoded?\n\nMake only one selection in each column.",
+      "options": [
+        {
+          "Pilot": [
+            "hated",
+            "blast",
+            "craft",
+            "cobra",
+            "pilot",
+            "awful"
+          ],
+          "Awful": [
+            "hated",
+            "blast",
+            "craft",
+            "cobra",
+            "pilot",
+            "awful"
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Pilot": "hated",
+        "Awful": "pilot"
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 2,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "A sequence is defined such that each term is twice the value of the previous term in the sequence (so the fourth term is twice the value of the third). Which of the following could represent the 4th and 8th terms of such a sequence?",
+      "options": [
+        {
+          "4th_term": [
+            3,
+            24,
+            36,
+            192,
+            384,
+            768
+          ],
+          "8th_term": [
+            3,
+            24,
+            36,
+            192,
+            384,
+            768
+          ]
+        }
+      ],
+      "correct_answer": {
+        "4th_term": 24,
+        "8th_term": 384
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 3,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "According to sports analysts, the New York Yankees have an 80% chance of winning the World Series in baseball, whereas the NY Jets have a 90% chance of winning the Superbowl. Select for Least probability the least probability, compatible with the probabilities provided by the respective sports analysts, that both the New York Yankees and the NY Jets will win the World Series and Superbowl titles, and select for Greatest probability the greatest probability, jointly consistent with the probabilities provided by the respective sports analysts, that both the New York Yankees and the NY Jets will win the World Series and Superbowl titles. Make only two selections, one in each column.",
+      "options": [
+        {
+          "Least_probability": [
+            0.02,
+            0.1,
+            0.7,
+            0.72,
+            0.8,
+            0.9
+          ],
+          "Greatest_probability": [
+            0.02,
+            0.1,
+            0.7,
+            0.72,
+            0.8,
+            0.9
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Least_probability": 0.7,
+        "Greatest_probability": 0.8
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 4,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "The track coach at a particular school had her student athletes practice running outside of scheduled training sessions and report details to her. She had them report speed as kilometers run divided by time running, whether they wore running shoes or other athletic shoes, whether they ran on the school track or not, and whether the wind was ≥ 3 meters per second (m/s) or < 3 m/s. She found that, overall, reports of greater than average speeds correlated with reports of both winds < 3 m/s and wearing running shoes. She also found that reports of less than average speeds correlated with reports of both winds ≥ 3 m/s and wearing shoes other than running shoes. The coach hypothesizes that the wind, and not the type of shoes worn, was responsible for the difference in speed.\n\nThe hypothesis indicates that the coach would expect speeds associated with reports of 1 to be less than speeds associated with reports of 2.\n\nSelect for 1 and for 2 the options that create the statement that most accurately reflects the information provided. Make only two selections, one in each column.",
+      "options": [
+        {
+          "1": [
+            "running on the school track and wind < 3 m/s",
+            "wearing shoes other than running shoes and running on the school track",
+            "wearing running shoes and running on the school track",
+            "wearing running shoes and wind < 3 m/s",
+            "wearing running shoes and wind ≥ 3 m/s"
+          ],
+          "2": [
+            "running on the school track and wind < 3 m/s",
+            "wearing shoes other than running shoes and running on the school track",
+            "wearing running shoes and running on the school track",
+            "wearing running shoes and wind < 3 m/s",
+            "wearing running shoes and wind ≥ 3 m/s"
+          ]
+        }
+      ],
+      "correct_answer": {
+        "1": "wearing running shoes and wind ≥ 3 m/s",
+        "2": "wearing running shoes and wind < 3 m/s"
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 5,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "It takes 5 days, 10 days, 20 days, 40 days, and 50 days respectively for workers A, B, C, D, and E to complete the same work independently. The employer wants the work to be inspected within one day of completion. Further, the employer can employ exactly two of these five workers, and due to certain administrative restrictions, the employer mandates that the work takes at least 10 days but not more than 14 days. X is the slower worker of the two workers selected, and Y is the other worker. Select an option for X and an option for Y that are jointly consistent with the information provided. Make only two selections, one in each column.",
+      "options": [
+        {
+          "X": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "Y": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        }
+      ],
+      "correct_answer": {
+        "X": "D",
+        "Y": "C"
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 6,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "Chair P, from Design Solutions, cost $60 per chair. Chair Q, from Seat Unlimited, costs $90 per chair. An office manager often has to buy several chairs to stock the floor space of new offices. On one occasion, she orders p of chair P, and q of chair Q. The average cost of a chair would be\n\naverage = (60p + 90q) / (p + q)\n\nIn the table, select a value for p and a value for q corresponding to an average cost per chair of $70. Make only two selections, one in each column.",
+      "options": [
+        {
+          "p": [
+            21,
+            28,
+            36,
+            45,
+            56,
+            63
+          ],
+          "q": [
+            21,
+            28,
+            36,
+            45,
+            56,
+            63
+          ]
+        }
+      ],
+      "correct_answer": {
+        "p": 56,
+        "q": 28
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 7,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "On July 4th, a town holds an annual fireworks show. The show’s finale consists of two types of fireworks: Firework A and Firework B. They are launched at intervals throughout the finale to create a synchronized effect in the sky.\n\nFirework A is launched every 6 seconds.\n\nFirework B is launched every 21 seconds.\n\nBoth fireworks start simultaneously at the beginning of the finale.\n\nBased on the above information, select for Time the number of seconds after the start of the finale both Firework A and Firework B next launch simultaneously and for Launches the number of times Firework A will be launched by the time they launch together again.",
+      "options": [
+        {
+          "Time": [
+            3,
+            6,
+            7,
+            8,
+            42,
+            56
+          ],
+          "Launches": [
+            3,
+            6,
+            7,
+            8,
+            42,
+            56
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Time": 42,
+        "Launches": 7
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 8,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "Given the equation x^2 − kx + 20 = 0, where k is a constant, which of the following could be corresponding values of integers k and x?",
+      "options": [
+        {
+          "k": [
+            -20,
+            -9,
+            -2,
+            0,
+            4,
+            9
+          ],
+          "x": [
+            -20,
+            -9,
+            -2,
+            0,
+            4,
+            9
+          ]
+        }
+      ],
+      "correct_answer": {
+        "k": 9,
+        "x": 4
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 9,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "You have the option to order wallboard from either of two suppliers with the same basic price per four-by-eight-foot sheet of wallboard. Supplier A is located in state and must apply the 6% state sales tax to your order. Supplier B ships from out of state, where no sales tax applies to orders for construction materials. Because of the distance, Supplier B charges more for shipping than Supplier A charges. If an order totaling $10,000 before tax and shipping costs results in the same charge from either supplier, find each supplier’s shipping cost for such an order.",
+      "options": [
+        {
+          "Shipping from Supplier A": [
+            "$85",
+            "$125",
+            "$325",
+            "$450",
+            "$600",
+            "$725"
+          ],
+          "Shipping from Supplier B": [
+            "$85",
+            "$125",
+            "$325",
+            "$450",
+            "$600",
+            "$725"
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Shipping from Supplier A": "$125",
+        "Shipping from Supplier B": "$725"
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 10,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "A prominent entertainment analyst has predicted that the family drama film Prime Meridian will have weak box office revenue during its theatrical run. On the one hand, it will open the same weekend as two big-budget films: the highly anticipated action-adventure Blowtorch and the sequel to the very successful comedy Animal Pleasures. On the other, on its opening week it is scheduled to be shown on only half as many movie screens as Animal Pleasures, so its earning potential is limited.\n\nSelect Strengthen for the statement that, if true, would most strengthen the analyst’s argument, and select Weaken for the statement that, if true, would most weaken the analyst’s argument. Make only two selections, one in each column.",
+      "options": [
+        {
+          "Strengthen": [
+            "Family dramas have historically not performed well at the box office when competing against big-budget action-adventures.",
+            "Blowtorch is expected to have higher box office revenues than Animal Pleasures.",
+            "The last two films by the Prime Meridian lead actor did very well in DVD sales, rentals, and online downloads.",
+            "After the first week, the number of movie screens on which Prime Meridian is shown will be doubled.",
+            "Sequels do not always match the box office success of the original films."
+          ],
+          "Weaken": [
+            "Family dramas have historically not performed well at the box office when competing against big-budget action-adventures.",
+            "Blowtorch is expected to have higher box office revenues than Animal Pleasures.",
+            "The last two films by the Prime Meridian lead actor did very well in DVD sales, rentals, and online downloads.",
+            "After the first week, the number of movie screens on which Prime Meridian is shown will be doubled.",
+            "Sequels do not always match the box office success of the original films."
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Strengthen": "Family dramas have historically not performed well at the box office when competing against big-budget action-adventures.",
+        "Weaken": "After the first week, the number of movie screens on which Prime Meridian is shown will be doubled."
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 11,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "Analyst: Two companies, Company X and Company Y, have just released competing products. Company X’s product is considered to be of higher quality, but Company Y’s product sells for a lower price. As a result, we expect Company Y’s product to have strong sales, unlike Company X’s product.\n\nIn the table, select Strengthen for the statement that, if true, would most strengthen the analyst’s argument, and select Weaken for the statement that, if true, would most weaken the analyst’s argument. Make only two selections, one in each column.",
+      "options": [
+        {
+          "Strengthen": [
+            "Company X is well-known for high-quality products.",
+            "In a recent poll, most consumers rated both quality and price as important considerations when they purchase products of this type.",
+            "Both products have received higher ratings for quality than the current best-selling product.",
+            "Company X has a large and loyal customer base.",
+            "A third company will introduce a competing product later in the year."
+          ],
+          "Weaken": [
+            "Company X is well-known for high-quality products.",
+            "In a recent poll, most consumers rated both quality and price as important considerations when they purchase products of this type.",
+            "Both products have received higher ratings for quality than the current best-selling product.",
+            "Company X has a large and loyal customer base.",
+            "A third company will introduce a competing product later in the year."
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Strengthen": "Both products have received higher ratings for quality than the current best-selling product.",
+        "Weaken": "Company X has a large and loyal customer base."
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 12,
+      "section": "Data Insight",
+      "subtype": "Two Part Analysis",
+      "question": "Heavy traffic on Buryville’s freeways often results in much longer than expected commute times between outlying neighborhoods and the city center. Home construction in outlying neighborhoods is expected to continue to increase steadily and the total population of Buryville is projected to increase by 25% over the next 15 years. The Buryville Regional Mobility Authority plans to increase freeway capacity by only 10% over this same period. Authority officials predict that this increase will be sufficient to ensure that commute times will not increase.\n\nIn the table, select Strengthen for the statement that would, if true, provide the strongest grounds for supporting the officials’ prediction. Select Weaken for the statement that would, if true, cast the most doubt on that prediction. Make only two selections, one in each column.",
+      "options": [
+        {
+          "Strengthen": [
+            "Authority officials are also planning a 5% increase in capacity for streets in the city center.",
+            "Most of the new residents will both live and work in an outlying neighborhood to the north of the city.",
+            "The projected increase in freeway utilization is expected to occur gradually over time.",
+            "The Authority expects to be able to complete the necessary construction without significant disruption to existing traffic patterns or commute times.",
+            "The Authority believes that it will be able to increase freeway capacity without raising the local tax rate."
+          ],
+          "Weaken": [
+            "Since Buryville has limited public transportation outside of the city center, workers who drive from outlying neighborhoods to the city center have no practical alternative to driving available.",
+            "Most of the new residents will both live and work in an outlying neighborhood to the north of the city.",
+            "The projected increase in freeway utilization is expected to occur gradually over time.",
+            "The Authority expects to be able to complete the necessary construction without significant disruption to existing traffic patterns or commute times.",
+            "The Authority believes that it will be able to increase freeway capacity without raising the local tax rate."
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Strengthen": "Most of the new residents will both live and work in an outlying neighborhood to the north of the city.",
+        "Weaken": "Since Buryville has limited public transportation outside of the city center, workers who drive from outlying neighborhoods to the city center have no practical alternative to driving available."
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 13,
+      "section": "Logical Reasoning",
+      "subtype": "Two Part Analysis",
+      "question": "A family consists of four members: a mother, a father, and two children, Alan and Christie. Each member has specific conditions for attending outings. The father will only go on the outing if Christie goes. He will also only attend if it rains or if it is a holiday. However, Christie will not go if Alan goes, and both Christie and Alan prefer to stay home to watch the latest series on their OTT service during holidays. Tired of the other family members' preferences, the mother decides to attend based on the outcome of a coin flip; she will only go if the coin shows tails.\n\nGiven that the father attended one such outing, select one statement that must be true and one that must not be true from the options below that are jointly consistent with the information provided. Make only two selections, one in each column.",
+      "options": [
+        {
+          "Must be true": [
+            "It was a holiday that day.",
+            "The coin flipped by the mother showed a tail.",
+            "The father was accompanied by exactly one more family member.",
+            "It was raining that day.",
+            "The mother did not go on the outing."
+          ],
+          "Must NOT be true": [
+            "It was a holiday that day.",
+            "The coin flipped by the mother showed a tail.",
+            "The father was accompanied by exactly one more family member.",
+            "It was raining that day.",
+            "The mother did not go on the outing."
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Must be true": "It was raining that day.",
+        "Must NOT be true": "It was a holiday that day."
+      },
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 14,
+      "section": "Probability",
+      "subtype": "Two Part Analysis",
+      "question": "A bag contains only red and white balls. The probability of drawing two red balls consecutively is 2/5. However, when 6 red balls are replaced with 6 white balls, the probability of drawing two consecutive red balls decreases to 3/20. Select the number of red balls in the bag prior to the replacement under 'Red' and the number of white balls in the bag after the replacement under 'White'. Make only two selections, one from each column.",
+      "options": [
+        {
+          "Red": [
+            9,
+            10,
+            12,
+            15,
+            16,
+            20
+          ],
+          "White": [
+            9,
+            10,
+            12,
+            15,
+            16,
+            20
+          ]
+        }
+      ],
+      "correct_answer": {
+        "Red": 16,
+        "White": 15
+      },
+      "difficulty": "Hard"
+    }
+  ]
+}

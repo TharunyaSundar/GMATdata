@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question_id": 5,
+      "question_id": 1,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -17,7 +17,7 @@
       "difficulty": "Challenging"
     },
     {
-      "question_id": 34,
+      "question_id": 2,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -33,7 +33,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 40,
+      "question_id": 3,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -49,7 +49,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 52,
+      "question_id": 4,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -65,7 +65,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 67,
+      "question_id": 5,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -81,7 +81,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 76,
+      "question_id": 6,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -97,7 +97,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 86,
+      "question_id": 7,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -113,7 +113,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 87,
+      "question_id": 8,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -129,7 +129,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 88,
+      "question_id": 9,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -145,7 +145,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 97,
+      "question_id": 10,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Algebra",
@@ -159,6 +159,486 @@
       },
       "correct_answer": "C",
       "difficulty": "Medium"
-    }
+    },
+    {
+      "question_id": 11,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If n and k are positive integers and n + k < 8, how many different values of the product nk are possible?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "12",
+        "E": "16"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 12,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If a and b are integers such that 2x^2 − ax + 2 > 0 and x^2 − bx + 8 ≥ 0 for all numbers x, then what is the largest possible value of 2a − 6b?",
+      "options": {
+        "A": "30",
+        "B": "32",
+        "C": "34",
+        "D": "36",
+        "E": "38"
+      },
+      "correct_answer": "D",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 13,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Find the number of integer solutions to |a| + |b| + |c| = 10, where none of a, b, or c is 0.",
+      "options": {
+        "A": "36",
+        "B": "72",
+        "C": "144",
+        "D": "288",
+        "E": "576"
+      },
+      "correct_answer": "D",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 14,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "The set of solutions for the equation (x^2 − 25)^2 = x^2 − 10x + 25 contains how many real numbers?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 15,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "The sum of the first 11 terms of an arithmetic progression is 275. Which of the following can be the sum of the first 12 terms, if the first term and the common difference are positive integers?",
+      "options": {
+        "A": "300",
+        "B": "310",
+        "C": "316",
+        "D": "324",
+        "E": "333"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 16,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If f(x) = |3x − 20| + |11 − x| + |2x − 17|, for how many integers n is f(n) = f(n+1)?",
+      "options": {
+        "A": "None",
+        "B": "One",
+        "C": "Two",
+        "D": "Three",
+        "E": "More than three"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 17,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Find the number of pairs of positive integers (x, y) such that x^6 = y^2 + 127.",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 18,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Let 'n' be the number of pairs of values of 'b' and 'c' such that 3x + b*y + c = 0 and c*x − 2y + 12 = 0 have the same graph. Then n is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Finite but more than 2",
+        "E": "Greater than any finite number"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 19,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If the sum of squares of two numbers is 97, then which one of the following cannot be their product?",
+      "options": {
+        "1": "64",
+        "2": "16",
+        "3": "−32",
+        "4": "48",
+        "5": "24"
+      },
+      "correct_answer": "1",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 20,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "The square of the arithmetic mean of a sequence of consecutive positive integers is equal to the difference between the squares of the least and greatest terms. If the square of the mean is less than 1000, how many such sequences are there?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "E": "7"
+      },
+      "correct_answer": "E",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 21,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Find the number of ordered quadruples of positive integers (a, b, c, d) satisfying a^3b − ab^3 = cd, in which c and d are prime numbers.",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 22,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "The value of the sum 7 × 11 + 11 × 15 + 15 × 19 + ... + 95 × 99 is:",
+      "options": {
+        "A": "80707",
+        "B": "80773",
+        "C": "80730",
+        "D": "80751",
+        "E": "80734"
+      },
+      "correct_answer": "A",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 23,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If the sum of 5 consecutive positive multiples of a prime number is 105, what is the sum of the first 5 positive multiples of that prime number?",
+      "options": {
+        "A": "30",
+        "B": "45",
+        "C": "75",
+        "D": "105",
+        "E": "Can't be determined"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 24,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "How many whole number solutions are possible for the equation x + y + z = 30?",
+      "options": {
+        "A": "75",
+        "B": "150",
+        "C": "90",
+        "D": "298",
+        "E": "65"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 25,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "a, b, and c are positive integers with abc + 2ab + 2bc + 2ca + 4a + 4b + 4c = 447. What is the value of a + b + c?",
+      "options": {
+        "A": "17",
+        "B": "19",
+        "C": "21",
+        "D": "23",
+        "E": "25"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 26,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "How many ordered pairs of positive integers (x, y) satisfy the inequality 2x + y < 10?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "E": "9"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 27,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Let a, b, and c be real numbers such that a − 7b + 8c = 4 and 8a + 4b − c = 7. Then a² − b² + c² is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "4",
+        "D": "7",
+        "E": "8"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 28,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "The sum of five integers is 999, while the sum of their squares is X. Which of the following statements is true?",
+      "options": {
+        "A": "X is never greater than 1,001,001",
+        "B": "X is never less than 299,794",
+        "C": "X is never less than 199,601",
+        "D": "X can never be a perfect square.",
+        "E": "None of the above."
+      },
+      "correct_answer": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 29,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If √x * x + √y * y = 32 and √x * y + √y * x = 31, then what is the value of x + y?",
+      "options": {
+        "A": "√5",
+        "B": "5",
+        "C": "6.2",
+        "D": "12.6",
+        "E": "25"
+      },
+      "correct_answer": "D",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 30,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "How many unique roots of the equation (x^3 + 3x^2 − 9x + 5)/(x − 1) = 0?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "None of the above"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 31,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Arithmetic",
+      "question": "At a certain arena, with five levels, level I has 30 vacant seats, level II has 45 vacant seats, level III has 40 vacant seats, level IV has 25 vacant seats and level V has 10 vacant seats. If vacant seats are filled randomly, what is the minimum number of seats that must be filled to ensure that 3 levels are completely filled?",
+      "options": {
+        "A": "115",
+        "B": "139",
+        "C": "140",
+        "D": "148",
+        "E": "149"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 32,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "The number of polynomials p(x) with integer coefficients such that the curve y = p(x) passes through (6, 8) and (4, 9) is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "infinite"
+      },
+      "correct_answer": "A",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 33,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Find the number of ordered integral solutions of the equation 1/x + 1/y = 5/11, where x, y ≠ 0.",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "infinite"
+      },
+      "correct_answer": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 34,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Arithmetic",
+      "question": "How many positive integers less than 1000 are 6 times the sum of their digits?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "4",
+        "E": "12"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 35,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Number Theory",
+      "question": "For some integer q, q^2 − 5 is divisible by all of the following EXCEPT:",
+      "options": {
+        "A": "29",
+        "B": "30",
+        "C": "31",
+        "D": "38",
+        "E": "41"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 36,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If x is an integer, how many solutions exist for the equation |x| + |x + 1| = |x|! ?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 37,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Let p and q be the roots of the quadratic equation x² − (a − 2)x − (a + 1) = 0. What is the minimum possible value of p² + q²?",
+      "options": {
+        "A": "0",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "E": "12"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 38,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "What is the product of all the solutions of (x + 2)^2 = |x + 2|?",
+      "options": {
+        "A": "-6",
+        "B": "-2",
+        "C": "2",
+        "D": "6",
+        "E": "12"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 39,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "If the sum of all x^n, where x is a positive two-digit integer and n is an integer from 0 to 5 inclusive, equals k, which of the following equals x^6?",
+      "options": {
+        "A": "kx + 1",
+        "B": "k(x - 1) + 1",
+        "C": "k(x - 1) - 1",
+        "D": "k(x - 2) + 1",
+        "E": "k(x - 2) - 1"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 40,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Algebra",
+      "question": "Three numbers x, y, and z are in A.P. Given that y − x > 2 and xyz = 5(x + y + z), then the value of z − x is:",
+      "options": {
+        "A": "15",
+        "B": "14",
+        "C": "12",
+        "D": "8",
+        "E": "7"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    }    
   ]
 }

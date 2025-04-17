@@ -1,0 +1,286 @@
+{
+    "questions":[
+        {
+
+            "question_id": 1,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q1.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_id": 2,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q2.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 3,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q3.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 4,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q4.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 5,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q5.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_id": 6,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q6.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_id": 7,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q7.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_id": 8,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q8.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 9,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q9.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_id": 10,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q10.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 11,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q11.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "E"
+        },
+        {
+            "question_id": 12,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q12.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 13,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q13.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 14,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q14.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_id": 15,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q15.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "D"
+        },
+        {
+            "question_id": 16,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q16.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "B"
+        },
+        {
+            "question_id": 17,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q17.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "E"
+        },
+        {
+            "question_id": 18,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q18.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "E"
+        },
+        {
+            "question_id": 19,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q19.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_id": 20,
+            "section": "DataInsights",
+            "subtype": "Data Sufficiency",
+            "question": "DataInsights/DataSuffciency/Imagedata/DSimages/q20.png",
+            "options": {
+                "A": "Statement (1) ALONE is sufficient, but statement (2) ALONE is not sufficient to answer the question asked.",
+                "B": "Statement (2) ALONE is sufficient, but statement (1) ALONE is not sufficient to answer the question asked.",
+                "C": "BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient to answer the question asked.",
+                "D": "EACH statement ALONE is sufficient to answer the question asked.",
+                "E": "Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed."
+            },
+            "correct_answer": "A"
+        }
+
+    ]
+}

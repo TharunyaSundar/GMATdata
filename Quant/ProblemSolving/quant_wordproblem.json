@@ -17,7 +17,7 @@
       "difficulty": "Challenging"
     },
     {
-      "question_id": 4,
+      "question_id": 2,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -33,7 +33,7 @@
       "difficulty": "Easy"
     },
     {
-      "question_id": 47,
+      "question_id": 3,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -49,7 +49,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 60,
+      "question_id": 4,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -65,7 +65,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 61,
+      "question_id": 5,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -81,7 +81,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 63,
+      "question_id": 6,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -97,7 +97,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 79,
+      "question_id": 7,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -113,7 +113,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 81,
+      "question_id": 8,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -129,7 +129,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 84,
+      "question_id": 9,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -145,7 +145,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 93,
+      "question_id": 10,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -161,7 +161,7 @@
       "difficulty": "Medium"
     },
     {
-      "question_id": 100,
+      "question_id": 11,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -177,7 +177,7 @@
       "difficulty": "Hard"
     },
     {
-      "question_id": 101,
+      "question_id": 12,
       "section": "Quantitative Reasoning",
       "subtype": "Problem Solving",
       "subtype-type": "Word Problem",
@@ -191,6 +191,456 @@
       },
       "correct_answer": "B",
       "difficulty": "Medium"
+    },
+    {
+      "question_id": 13,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Marissa is responsible for watering 30 trees that have been planted in a circular pattern. Each day, she selects the first tree to water at random and then proceeds around the circle counter-clockwise, watering every nth tree until all 30 trees have been watered. Which of the following is a possible value for n?",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "9",
+        "D": "27",
+        "E": "28"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 14,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "The number of candidates rejected in a certain admission process was four times greater than the number of candidates accepted. Which of the following could be the total number of candidates that applied for this admission process?",
+      "options": {
+        "A": "726",
+        "B": "727",
+        "C": "728",
+        "D": "729",
+        "E": "730"
+      },
+      "correct_answer": "A",
+      "difficulty": "Easy"
+    },
+    {
+      "question_id": 15,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Onion is sold for 5 consecutive months at the rate of Rupees 10, 20, 25, 25, and 50 per kg, respectively. A family spends a fixed amount of money on onion for each of the first three months, and then spends half that amount on onion for each of the next two months. The average expense for onion, in rupees per kg, for the family over these 5 months is closest to:",
+      "options": {
+        "A": "26",
+        "B": "21",
+        "C": "20",
+        "D": "18",
+        "E": "16"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 16,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Buses leave town B at 3 PM and every 10 hours after that. Buses leave town C at 4 PM and every 15 hours after that. If the buses follow this schedule beginning on a Monday, what is the earliest day on which the buses leave at the same time?",
+      "options": {
+        "A": "Tuesday",
+        "B": "Wednesday",
+        "C": "Thursday",
+        "D": "Sunday",
+        "E": "The buses will never leave at the same time"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 17,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Kali builds a tower using only red, green, and blue toy bricks in a ratio of 4:3:1. She then removes 1/2 of the green bricks and adds 1/3 more blue bricks, reducing the size of the tower by 14 bricks. How many red bricks will she need to add in order to double the total number of bricks used to build the original tower?",
+      "options": {
+        "A": "82",
+        "B": "96",
+        "C": "110",
+        "D": "120",
+        "E": "192"
+      },
+      "correct_answer": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 18,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Trucks of three different sizes - small, medium, and large - are used to transport cargo to a remote village. Four large trucks carry as much cargo as seven small trucks. Three medium trucks carry the same amount of cargo as two large trucks and one small truck. Fifteen large, seven medium, and fourteen small trucks each made thirty-six journeys to transport supplies. In order to transport the same amount of supplies, how many journeys would twelve large, fourteen medium, and twenty-one small trucks need to make?",
+      "options": {
+        "A": "25",
+        "B": "29",
+        "C": "32",
+        "D": "49",
+        "E": "68"
+      },
+      "correct_answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 19,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "A watch dealer incurs an expense of Rs. 150 for producing every watch. He also incurs an additional expenditure of Rs. 30,000, which is independent of the number of watches produced. If he is able to sell a watch during the season, he sells it for Rs. 250. If he fails to do so, he has to sell each watch for Rs. 100. If he produces 1500 watches, what is the number of watches that he must sell during the season in order to breakeven, given that he is able to sell all the watches produced?",
+      "options": {
+        "A": "500",
+        "B": "700",
+        "C": "800",
+        "D": "1000",
+        "E": "1100"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 20,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "An engineering toolkit contains 6 gizmos and 9 gadgets. Anthony and Lily each buy some toolkits. After both of them complete their purchases, Lily trades two-thirds of her gizmos with Anthony for two-thirds of his gadgets. After the trade, Lily has 92 more gadgets than she has gizmos, and Anthony has 50 more gizmos than he has gadgets. How many toolkits did Lily buy?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8",
+        "E": "10"
+      },
+      "correct_answer": "D",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 21,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Identical chocolate pieces are sold in boxes of two sizes, small and large. The large box is sold for twice the price of the small box. If the selling price per gram of chocolate in the large box is 12% less than that in the small box, then the percentage by which the weight of chocolate in the large box exceeds that in the small box is nearest to:",
+      "options": {
+        "A": "127",
+        "B": "131",
+        "C": "135",
+        "D": "144",
+        "E": "154"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 22,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "A town in California fines residents who do not pay their property taxes on time. All residents must pay their taxes before July 1st for that calendar year or face the following fine structure: For the first month the taxes are overdue (that would be any payment made on July 1st through July 31st), the total fine is 1% of the original tax bill; for each additional month that the taxes are overdue, the total fine is increased by $600 or doubled, whichever results in the lesser amount. What is the total fine for a resident of that town who originally owed $20,000 in property taxes, but did not pay until October 15th?",
+      "options": {
+        "A": "$1,400",
+        "B": "$1,800",
+        "C": "$2,400",
+        "D": "$21,400",
+        "E": "$22,800"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 23,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Two clocks are set correctly at noon. One keeps correct time. The other gains 1 2/3 seconds per minute. That evening, when the fast clock shows 9:15, what does the correct clock show?",
+      "options": {
+        "A": "8:48",
+        "B": "8:51",
+        "C": "8:57",
+        "D": "9:00",
+        "E": "9:06"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 24,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "A man, during his trip, spent only $5 notes, using as many $5 bills each day as the number of days he had been away from home. If his total expenditure amounted to $9245, how long was the duration of his trip?",
+      "options": {
+        "A": "1,849",
+        "B": "140",
+        "C": "59",
+        "D": "49",
+        "E": "43"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+    "question_id": 25,
+    "section": "Quantitative Reasoning",
+    "subtype": "Problem Solving",
+    "subtype-type": "Word Problem",
+    "question": "A man, during his trip, spent only $5 notes, using as many $5 bills each day as the number of days he had been away from home. If his total expenditure amounted to $9245, how long was the duration of his trip?",
+    "options": {
+      "A": "1,849",
+      "B": "140",
+      "C": "59",
+      "D": "49",
+      "E": "43"
+    },
+    "correct_answer": "E",
+    "difficulty": "Medium"
+      }, 
+    {
+      "question_id": 26,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Johnson signed a consignment and needed to borrow $500 at no interest. It was stated in the consignment that he must pay back 1.5% of the total amount every week, beginning exactly 7 days after the loan was disbursed, and has thus paid back $60, with the most recent payment made today. How many days ago did he borrow the money?",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "49",
+        "D": "56",
+        "E": "64"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 27,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "The tickets for a certain concert were supposed to be distributed so that for every three tickets that were sold, one ticket was to be given away for free. Due to low demand, the ratio changed so that, although the total number of the tickets and the total revenue remained the same, the relative number of free tickets doubled. How many times larger was the actual price of each ticket?",
+      "options": {
+        "A": "1.25",
+        "B": "1.33",
+        "C": "1.5",
+        "D": "2",
+        "E": "2.25"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 28,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Jim Broke’s only source of income comes from his job as a question writer. In this capacity, Jim earns a flat salary of $200 per week plus a fee of $9 for every question that he writes. Every year, Jim takes exactly two weeks of unpaid vacation to visit his uncle, a monk in Tibet, and get inspired for the next year. If a regular year consists of 52 weeks and the number of questions that Jim wrote in each of the past 5 years was an odd number greater than 20, which of the following could be Jim’s median annual income over the past 5 years?",
+      "options": {
+        "A": "$22,474",
+        "B": "$25,673",
+        "C": "$27,318",
+        "D": "$28,423",
+        "E": "$31,227"
+      },
+      "correct_answer": "D",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 29,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Each month a retailer sells 100 identical items. On each item he makes a profit of $20 that constitutes 10% of the item's price to the retailer. If the retailer contemplates giving a 5% discount on the items he sells, what is the least number of items he will have to sell each month to justify the policy of the discount?\n\nN.B. Does this question clarify that the 5% discount is on the selling price or the cost price?",
+      "options": {
+        "A": "191",
+        "B": "213",
+        "C": "221",
+        "D": "223",
+        "E": "226"
+      },
+      "correct_answer": "D",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 30,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "A man purchased $510 worth of savings bonds in denominations of $15 and $30, including at least 1 of each denomination. He gave away 8 of the bonds as gifts but then lost all the rest of the bonds he had purchased. If the number of $30 bonds he gave away was a multiple of the number of $15 bonds he gave away, what was the maximum possible value of the bonds that he lost?",
+      "options": {
+        "A": "180",
+        "B": "225",
+        "C": "285",
+        "D": "300",
+        "E": "330"
+      },
+      "correct_answer": "E",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 31,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Solution A contains 8 percent salt by weight, and solution B contains 12.5 percent salt by weight. If 4.5 grams of solution A is mixed with 3 grams of solution B, then what percent of the weight of the resulting solution is salt?",
+      "options": {
+        "A": "9.6",
+        "B": "9.8",
+        "C": "10.4",
+        "D": "10.8",
+        "E": "11"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 32,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "The Bryant's flower shop situated at the New Plaza complex stocks four types of flowers. There are 1/3 as many violets as carnations, and 1/2 as many tulips as violets. If there are equal number of roses and tulips, what percent of the flowers in the shop are carnations?",
+      "options": {
+        "A": "6.25",
+        "B": "20",
+        "C": "33",
+        "D": "50",
+        "E": "60"
+      },
+      "correct_answer": "E",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 33,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "Jolene began building a picket fence by planting stakes in a row; the stakes were evenly spaced. After planting the first 10 stakes, Jolene measured the length of the row and found that the row was 27 feet long. She continued the row by planting another 10 stakes, then measured the length of the entire row. How many feet long was the row of stakes Jolene had planted?",
+      "options": {
+        "A": "37",
+        "B": "54",
+        "C": "57",
+        "D": "60",
+        "E": "81"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 34,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "There are 125 chips on a table. If as many of the chips as possible are to be arranged into an equal number 3-chip and 4-chip stacks and the remaining chips are to be removed, how many of the chips are to be removed?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Five",
+        "D": "Six",
+        "E": "Seven"
+      },
+      "correct_answer": "D",
+      "difficulty": "Easy"
+    },
+    {
+      "question_id": 35,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "In a class of 30 students, 2 students did not borrow any books from the library, 12 students each borrowed 1 book, 10 students each borrowed 2 books, and the rest borrowed at least 3 books. If the average number of books per student was 2, what is the maximum number of books any single student could have borrowed?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "8",
+        "D": "13",
+        "E": "15"
+      },
+      "correct_answer": "D",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 36,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "In a college of 300 students, every student reads 5 newspapers and every newspaper is read by 60 students. What is the number of newspapers?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "25",
+        "D": "50",
+        "E": "60"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 37,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "It takes the average dryer 80 minutes to dry one full load of Bob's laundry. Bob has one average dryer, and also decides to try one 'Super Jumbo-Iron Dryer-Matic', which is faster than the average dryer by a ratio of 5:4. Bob has three loads of laundry, and both machines are so precise that he can set them to the minute. How many minutes does it take for him to dry his three loads? (Assume that no time passes between loads and that he can use both machines concurrently. Assume also that Bob does not partially dry a load in one machine and then switch it to the other.)",
+      "options": {
+        "A": "128 min",
+        "B": "130 min",
+        "C": "132 min",
+        "D": "125 min",
+        "E": "121 min"
+      },
+      "correct_answer": "A",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 38,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "In a club, 20% of the members are below 25 years of age. The number of members above 25 years of age is 16, which is 2/3 of the number of members of 25 years of age. What is the total number of members in the club?",
+      "options": {
+        "A": "50",
+        "B": "52",
+        "C": "60",
+        "D": "72",
+        "E": "80"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 39,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "As a result of a chemical reaction between compounds A and B, 1/4 of each compound was transformed into an equal amount of the other compound, while the remaining 3/4 of each compound was not transformed. If the amount of B was initially 4 times the amount of A, what was the ratio of the amount of A to the amount of B after the reaction?",
+      "options": {
+        "A": "1 to 3",
+        "B": "3 to 4",
+        "C": "4 to 7",
+        "D": "7 to 13",
+        "E": "7 to 16"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 40,
+      "section": "Quantitative Reasoning",
+      "subtype": "Problem Solving",
+      "subtype-type": "Word Problem",
+      "question": "The surface area of a spill, s, is directly proportional to the time since the spill occurred, t, and is inversely proportional to the square of the viscosity of the liquid spilled, v. If the time since a spill occurred is tripled and the viscosity of the liquid spilled is halved, by what percentage is the surface area of the spill increased?",
+      "options": {
+        "A": "75%",
+        "B": "900%",
+        "C": "1000%",
+        "D": "1100%",
+        "E": "1200%"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium"
     }
-  ]
+    
+       
+]
 }

@@ -1,0 +1,468 @@
+{
+    "questions":[
+        {
+            "question_id": 1,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q1.png",
+            "options": [ "A",
+            "B",
+            "none of the above"
+        ],
+            "correct_answer": ["B",
+            3]
+        },
+        {
+            "question_id": 2,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q2.png",
+            "options": [
+            "Campaign A",
+            "Campaign B",
+            "Campaign C",
+            "Campaign D",
+            "Campaign E",
+            1.7,
+            2.7,
+            3.3,
+            5.5
+        ],
+            "correct_answer": ["Campaign A", 5.5]
+        },
+        {
+            "question_id": 3,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q3.png",
+            "options": [
+              "Posituve",
+              "Negative",
+              "No",
+              2.5,
+              5,
+              6
+            ],
+            "correct_answer": ["Positive", 2.5]
+        },
+        {
+            "question_id": 4,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q4.png",
+            "correct_answer": [
+                "The total sales of Laptops in New York across all quarters exceeded 800,000 units.: False",
+                "The sales of Tablets in New York increased by more than 15% from Q1 to Q4.: False",
+                "Chicago sold more units of Smartphones in Q4 than New York sold of Smartphones in Q2.: True"
+            ]
+        },
+        {
+            "question_id": 5,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q5.png",
+            "correct_answer": [
+                "Factory A produced more units in Q3 than Factory D produced in Q1 and Q2 combined.: False",
+                "Factory A’s total output for the three quarters exceeded 4,000 units.: True",
+                "The output of Factory D in Q3 was higher than the output of Factory B in any quarter.: True"
+            ]
+        },
+        {
+            "question_id": 6,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q6.png",
+            "options": [
+              "Electronics",
+              "Clothing",
+              "Furniture",
+              20000,
+              25000,
+              35000,
+              40000,
+              60000
+            ],
+            "correct_answer": ["Electronics", 60000]
+        },
+        {
+            "question_id": 7,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q7.png",
+            "options": [
+              "Peanut and Chicken Breast",
+               "Whole Egg and Peanut",
+               "Soybean and Peanut",
+               "Soybean and Chicken Breast",
+               "Shrimp and Salmon",
+               "Shrimp and Pork Chops",
+               "Spinach and Shrimp",
+               "Shrimp and Ground Beef"
+            ],
+            "correct_answer": ["Peanut and Chicken Breast", "Shrimp and Pork Chops"]
+        },
+        {
+            "question_id": 8,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q8.png",
+            "options": [
+              "Less than",
+               "Equal to",
+               "Greater than",
+               "Less than",
+               "Equal to",
+               "Greater than"
+            ],
+            "correct_answer": ["Less than", "Greater than"]
+        },
+        {
+            "question_id": 9,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q9.png",
+            "options": [
+              "Small",
+              "Medium",
+              "Larger",
+              "Small",
+              "Medium",
+              "Larger"
+            ],
+            "correct_answer": ["Small",  "Larger"]
+        },
+        {
+            "question_id": 10,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q10.png",
+            "options": [
+              "less than 55% but greater than 2.5%",
+              "less than 50% but greater than 20%",
+              "less than 40% but greater than 25%",
+              "none of the above"
+            ],
+            "correct_answer": ["less than 55% but greater than 2.5%"]
+        },
+        {
+            "question_id": 11,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q11.png",
+            "options": [
+              "Marketing",
+              "HR",
+              "R&D",
+              "IT",
+              "Sales",
+              "100%",
+              "200%",
+              "300%",
+              "400%"
+            ],
+            "correct_answer": ["Marketing", "200%"]
+        },
+        {
+            "question_id": 12,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Graphs",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q11.png",
+            "options": [
+              "Fridge",
+              "HVAC",
+              "Lighting",
+              "Washer/Dryer",
+              "Others",
+              "20%",
+              "40%",
+              "60%"
+            ],
+            "correct_answer": ["HVAC", "40%"]
+        },
+        {
+            "question_id": 13,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q13.png",
+            "correct_answer": [
+                "Humans catch diseases from other humans much more easily than from animals.: Would help explain",
+                "Ambulance sirens are loud, but they don't damage people's hearing as much as power tools do.: Would help explain",
+                "About 10% of janitors earn extra pay for cleaning hazardous areas.: Would not help explain."
+            ]
+        },
+        {
+            "question_id": 14,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q14.png",
+            "correct_answer": [
+                "The South region had the highest total Q1 sales and the highest percentage increase from Q4.: True",
+                "The average number of stores across all regions is exactly 10.: False",
+                "The Q4 sales of the East region were higher than those of the West region.: True"
+            ]
+        },
+        {
+            "question_id": 15,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q15.png",
+            "correct_answer": [
+                "The maximum total percentage reporting error at any of the three airports listed is 0.1 %.: Yes", 
+                "JFK airport has the largest number of commercial flights of the three airports listed.: Yes",
+                "It is possible for there to have been no dwell times to departure greater than 121 minutes long at JFK in 2018: Yes"
+            ]
+        },
+        {
+            "question_id": 16,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q16.png",
+            "correct_answer": [
+                "There is only one way to select an ingredient or combination of ingredients that results in more than 20% fat.: False",
+                "The percentage of carbohydrate will always be more than 40% in a mix containing three or more ingredients.: False",
+                "A blend cannot include four ingredients.: False"
+            ]
+        },
+        {
+            "question_id": 17,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q17.png",
+            "correct_answer": [
+                "Company E had the highest profit in all three years.: True",
+                "Company C's profit margin decreased every year from 2021 to 2023.: True",
+                "The company with the fewest employees in 2021 had the lowest revenue.: True"
+            ]
+        },
+        {
+            "question_id": 18,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q18.png",
+            "correct_answer": [
+                "Rent paid was equal to the median rent paid for the eight-year period.: Yes", 
+                "The total cost in the categories shown decreased as compared to 2003.: Yes",
+                "Interest payments experienced the highest year-over-year drop for the eight-year period.: Yes"
+            ]
+        },
+        {
+            "question_id": 19,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q19.png",
+            "correct_answer": [
+                "1: No",
+                "2: No",
+                "3: Yes"
+            ]
+        },
+        {
+            "question_id": 20,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Tables",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q20.png",
+            "correct_answer": [
+                "The median number of hectares devoted to corn (in millions) was less than the median number of tons per hectare of corn yield.: Yes",
+                "The country or region that produced the greatest amount of wheat also produced the greatest amount of corn.: No",
+                "Every country or region that had one of the five greatest corn yields also had one of the five greatest wheat yields.: No"
+            ]
+        },
+        {
+            "question_id": 21,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q21.png",
+            "correct_answer": [
+                "Gene Pool A: Ecdysozoans",
+                "Gene Pool B: Myriapods"
+            ]
+        },
+        {
+            "question_id": 22,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q22.png",
+            "correct_answer": [
+                "1: The council considers a formal written noise complaint.",
+                "2: The council offers to mediate a dispute about noise."
+            ]
+        },
+        {
+            "question_id": 23,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q23.png",
+            "correct_answer": [
+                "1: The council considers a formal written noise complaint.",
+                "2: The council offers to mediate a dispute about noise."
+            ]
+        },
+        {
+            "question_id": 24,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q24.png",
+            "correct_answer": [
+                "Can be inferred as true: If the researchers' projections are accurate, the island's seabird population is likely to increase during more years of the second study than it did in the first.",
+                "Can be inferred as false: During the first study, the island's seabird population decreased only when the island's domesticated cat population increased."
+            ]
+        },
+        {
+            "question_id": 25,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q25.png",
+            "correct_answer": [
+                "Number of players: 9",
+                "Number of minutes: 45"
+            ]
+        },
+        {
+            "question_id": 26,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q26.png",
+            "correct_answer": [
+                "1: not use carbapenem",
+                "2: no change in mortality risk"
+            ]
+        },
+        {
+            "question_id": 27,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q27.png",
+            "correct_answer": [
+                "p: 3", "q: 2"
+            ]
+        },
+        {
+            "question_id": 27,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q27.png",
+            "correct_answer": [
+                "Handshakes: 66",
+                "X: 12"
+            ]
+        },
+        {
+            "question_id": 28,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q28.png",
+            "correct_answer": [
+                "1st: HELLO",
+                "2nd: THINK"
+            ]
+        },
+        {
+            "question_id": 29,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q29.png",
+            "correct_answer": [
+                "1st: HELLO",
+                "2nd: THINK"
+            ]
+        },
+        {
+            "question_id": 30,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q30.png",
+            "correct_answer": [
+                "Strengthen: The overall college attendance and test score data for the Perne school district puts it among the top 10% of school districts in the country.",
+                "Weaken: The Perne school district as a whole contains mostly academically below average schools."
+            ]
+        },
+        {
+            "question_id": 31,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q31.png",
+            "correct_answer": [
+                "Shortest Time: 2 hours 13 minutes",
+                "Longest Time: 2 hours 44 minutes"
+            ]
+        },
+        {
+            "question_id": 32,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q32.png",
+            "correct_answer": [
+                "Orange Juice: 250",
+                "Pineapple Juice: 250"
+            ]
+        },
+        {
+            "question_id": 33,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q33.png",
+            "correct_answer": [
+                "D1: 26",
+                "D2: 35"
+            ]
+        },
+        {
+            "question_id": 34,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q34.png",
+            "correct_answer": [
+                "H1: 40",
+                "H2: 16"
+            ]
+        },
+        {
+            "question_id": 35,
+            "section": "DataInsights",
+            "subtype": "Intergrated Reasoning",
+            "subtype-subtype": "Two Part Analysis",
+            "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q35.png",
+            "correct_answer": [
+                "Perfect Score in only Math: 8",
+                "Perfect Score in only English: 16"
+            ]
+        }
+
+    ]
+}
+

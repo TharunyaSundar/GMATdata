@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question_id": 4,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q4.png",
+      "correct_answer": [
+        "The total sales of Laptops in New York across all quarters exceeded 800,000 units.: False",
+        "The sales of Tablets in New York increased by more than 15% from Q1 to Q4.: False",
+        "Chicago sold more units of Smartphones in Q4 than New York sold of Smartphones in Q2.: True"
+      ]
+    },
+    {
+      "question_id": 5,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q5.png",
+      "correct_answer": [
+        "Factory A produced more units in Q3 than Factory D produced in Q1 and Q2 combined.: False",
+        "Factory A’s total output for the three quarters exceeded 4,000 units.: True",
+        "The output of Factory D in Q3 was higher than the output of Factory B in any quarter.: True"
+      ]
+    },
+    {
+      "question_id": 13,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q13.png",
+      "correct_answer": [
+        "Humans catch diseases from other humans much more easily than from animals.: Would help explain",
+        "Ambulance sirens are loud, but they don't damage people's hearing as much as power tools do.: Would help explain",
+        "About 10% of janitors earn extra pay for cleaning hazardous areas.: Would not help explain."
+      ]
+    },
+    {
+      "question_id": 14,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q14.png",
+      "correct_answer": [
+        "The South region had the highest total Q1 sales and the highest percentage increase from Q4.: True",
+        "The average number of stores across all regions is exactly 10.: False",
+        "The Q4 sales of the East region were higher than those of the West region.: True"
+      ]
+    },
+    {
+      "question_id": 15,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q15.png",
+      "correct_answer": [
+        "The maximum total percentage reporting error at any of the three airports listed is 0.1 %.: Yes",
+        "JFK airport has the largest number of commercial flights of the three airports listed.: Yes",
+        "It is possible for there to have been no dwell times to departure greater than 121 minutes long at JFK in 2018: Yes"
+      ]
+    },
+    {
+      "question_id": 16,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q16.png",
+      "correct_answer": [
+        "There is only one way to select an ingredient or combination of ingredients that results in more than 20% fat.: False",
+        "The percentage of carbohydrate will always be more than 40% in a mix containing three or more ingredients.: False",
+        "A blend cannot include four ingredients.: False"
+      ]
+    },
+    {
+      "question_id": 17,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q17.png",
+      "correct_answer": [
+        "Company E had the highest profit in all three years.: True",
+        "Company C's profit margin decreased every year from 2021 to 2023.: True",
+        "The company with the fewest employees in 2021 had the lowest revenue.: True"
+      ]
+    },
+    {
+      "question_id": 18,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q18.png",
+      "correct_answer": [
+        "Rent paid was equal to the median rent paid for the eight-year period.: Yes",
+        "The total cost in the categories shown decreased as compared to 2003.: Yes",
+        "Interest payments experienced the highest year-over-year drop for the eight-year period.: Yes"
+      ]
+    },
+    {
+      "question_id": 19,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q19.png",
+      "correct_answer": [
+        "1: No",
+        "2: No",
+        "3: Yes"
+      ]
+    },
+    {
+      "question_id": 20,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Tables",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q20.png",
+      "correct_answer": [
+        "The median number of hectares devoted to corn (in millions) was less than the median number of tons per hectare of corn yield.: Yes",
+        "The country or region that produced the greatest amount of wheat also produced the greatest amount of corn.: No",
+        "Every country or region that had one of the five greatest corn yields also had one of the five greatest wheat yields.: No"
+      ]
+    }
+  ]
+}

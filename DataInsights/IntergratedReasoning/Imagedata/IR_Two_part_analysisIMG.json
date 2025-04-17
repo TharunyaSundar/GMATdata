@@ -1,0 +1,180 @@
+{
+  "questions": [
+    {
+      "question_id": 21,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q21.png",
+      "correct_answer": [
+        "Gene Pool A: Ecdysozoans",
+        "Gene Pool B: Myriapods"
+      ]
+    },
+    {
+      "question_id": 22,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q22.png",
+      "correct_answer": [
+        "1: The council considers a formal written noise complaint.",
+        "2: The council offers to mediate a dispute about noise."
+      ]
+    },
+    {
+      "question_id": 23,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q23.png",
+      "correct_answer": [
+        "1: The council considers a formal written noise complaint.",
+        "2: The council offers to mediate a dispute about noise."
+      ]
+    },
+    {
+      "question_id": 24,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q24.png",
+      "correct_answer": [
+        "Can be inferred as true: If the researchers' projections are accurate, the island's seabird population is likely to increase during more years of the second study than it did in the first.",
+        "Can be inferred as false: During the first study, the island's seabird population decreased only when the island's domesticated cat population increased."
+      ]
+    },
+    {
+      "question_id": 25,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q25.png",
+      "correct_answer": [
+        "Number of players: 9",
+        "Number of minutes: 45"
+      ]
+    },
+    {
+      "question_id": 26,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q26.png",
+      "correct_answer": [
+        "1: not use carbapenem",
+        "2: no change in mortality risk"
+      ]
+    },
+    {
+      "question_id": 27,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q27.png",
+      "correct_answer": [
+        "p: 3",
+        "q: 2"
+      ]
+    },
+    {
+      "question_id": 27,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q27.png",
+      "correct_answer": [
+        "Handshakes: 66",
+        "X: 12"
+      ]
+    },
+    {
+      "question_id": 28,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q28.png",
+      "correct_answer": [
+        "1st: HELLO",
+        "2nd: THINK"
+      ]
+    },
+    {
+      "question_id": 29,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q29.png",
+      "correct_answer": [
+        "1st: HELLO",
+        "2nd: THINK"
+      ]
+    },
+    {
+      "question_id": 30,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q30.png",
+      "correct_answer": [
+        "Strengthen: The overall college attendance and test score data for the Perne school district puts it among the top 10% of school districts in the country.",
+        "Weaken: The Perne school district as a whole contains mostly academically below average schools."
+      ]
+    },
+    {
+      "question_id": 31,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q31.png",
+      "correct_answer": [
+        "Shortest Time: 2 hours 13 minutes",
+        "Longest Time: 2 hours 44 minutes"
+      ]
+    },
+    {
+      "question_id": 32,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q32.png",
+      "correct_answer": [
+        "Orange Juice: 250",
+        "Pineapple Juice: 250"
+      ]
+    },
+    {
+      "question_id": 33,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q33.png",
+      "correct_answer": [
+        "D1: 26",
+        "D2: 35"
+      ]
+    },
+    {
+      "question_id": 34,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q34.png",
+      "correct_answer": [
+        "H1: 40",
+        "H2: 16"
+      ]
+    },
+    {
+      "question_id": 35,
+      "section": "DataInsights",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Two Part Analysis",
+      "question": "DataInsights/IntergratedReasoning/Imagedata/IRimages/q35.png",
+      "correct_answer": [
+        "Perfect Score in only Math: 8",
+        "Perfect Score in only English: 16"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "With the recent change in the Republic of Krovania’s budget, state funding will receive an additional 20% from the tax increase. Will the development projects of the following cities require additional funding?",
+      "options": [
+        "Green Town: Yes",
+        "Coni: No",
+        "Ilica: Yes"
+      ],
+      "correct_answer": "Green Town: Yes, Coni: No, Ilica: Yes",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 2,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Suppose the surplus funds from adequately funded cities are not to be used for the inadequately funded cities, and the additional funding comes from other federal sources. What is the approximate amount of funds remaining with the federal sources after funding the inadequately funded cities (excluding the surplus funds from adequately funded cities)?",
+      "options": [
+        "185 million Krovanian dollars",
+        "175 million Krovanian dollars",
+        "155 million Krovanian dollars",
+        "135 million Krovanian dollars",
+        "125 million Krovanian dollars"
+      ],
+      "correct_answer": "125 million Krovanian dollars",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 3,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements, select Yes if the statement can be shown to be true using the information provided, otherwise select No.",
+      "options": [
+        "The amount of federal sources given to city C as a percentage of total funding needed by the development projects of that city is more than that given to city A: Yes",
+        "Development projects of more than 40% of the cities are inadequately funded: Yes",
+        "The federal funding allocated for the nine cities will not be exhausted, even after allocating the necessary funds to the inadequately funded cities: Yes"
+      ],
+      "correct_answer": [
+        "The amount of federal sources given to city C as a percentage of total funding needed by the development projects of that city is more than that given to city A: Yes",
+        "Development projects of more than 40% of the cities are inadequately funded: Yes",
+        "The federal funding allocated for the nine cities will not be exhausted, even after allocating the necessary funds to the inadequately funded cities: Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 4,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Approximately how much surplus amount will be allocated to the federal pool of funds to be shared among the inadequately funded cities?",
+      "options": [
+        "920 million Krovanian dollars",
+        "800 million Krovanian dollars",
+        "830 million Krovanian dollars",
+        "660 million Krovanian dollars",
+        "700 million Krovanian dollars"
+      ],
+      "correct_answer": "830 million Krovanian dollars",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 5,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Based on this and the information in the tabs, for each of the following statements, select Yes if the statement is accurate. Otherwise, select No.",
+      "options": [
+        "Overall spending on substance abuse approximately doubled from 1986 to 2003.",
+        "State and local government programs (Public Other State and Local) accounted for approximately $18 billion in substance abuse spending in 2003.",
+        "Medicare spending on substance abuse treatment remained unchanged between 1986 and 2003."
+      ],
+      "correct_answer": [
+        "Yes",
+        "No",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 6,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Which of the following best describes the role of medications in substance use treatment through 2004, based on the information provided?",
+      "options": [
+        "A wide range of medications was routinely used in treatment",
+        "Most approved medications were for opioid addiction",
+        "Prescription drugs accounted for the majority of treatment spending",
+        "Medications largely replaced outpatient and inpatient care",
+        "Only a small number of FDA-approved medications were available"
+      ],
+      "correct_answer": "Only a small number of FDA-approved medications were available",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 7,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following, indicate whether it is a condition typically treated at specialty substance abuse centers, based on the information provided in the tabs.",
+      "options": [
+        "Alcohol-induced or drug-induced psychoses",
+        "Opioid dependence requiring methadone administration",
+        "Pervasive developmental disorders"
+      ],
+      "correct_answer": [
+        "Yes",
+        "Yes",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 8,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Consider each of the following statements. Select Yes if the information contained in the two emails and the memorandum support the inference as stated. Otherwise, select No.",
+      "options": [
+        "No age and gender group watches Blonde Fury more frequently than do females aged 15–25.",
+        "Thirty second advertisements are more expensive for programs with larger audiences.",
+        "The ratio of female viewers aged 15 to 25 to dollars spent on advertising for Hart Attack is greater than that for Blonde Fury."
+      ],
+      "correct_answer": [
+        "No",
+        "No",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 9,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "If there are 20,000,000 females aged 15–25, then how many females aged 15–25 (in millions) watch neither Blonde Fury nor Hart Attack?",
+      "options": [
+        "1.4",
+        "4.0",
+        "5.6",
+        "9.6",
+        "11.2"
+      ],
+      "correct_answer": "9.6",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 10,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Consider each of the following statements. Based on the information contained in the two emails and the memoranda, select Yes if the statement is an assumption made by the Marketing Director. Otherwise, select No.",
+      "options": [
+        "It is possible for a strategy that succeeded in the past to succeed again.",
+        "The previous increases in revenues were attributable at least in part to the effect of increased advertising.",
+        "Increasing the number of advertisements has a similar effect on revenues to increasing the amount of money spent on advertising expenditures."
+      ],
+      "correct_answer": [
+        "Yes",
+        "Yes",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 11,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "At what level of investment would TV & movie advertising create, on average, the same number of new customers as web-based advertising?",
+      "options": [
+        "$16,000",
+        "$18,000",
+        "$24,000",
+        "$36,000",
+        "$48,000"
+      ],
+      "correct_answer": "$24,000",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 12,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Consider each of the following statements. Does the information in the three sources support the inference as stated?",
+      "options": [
+        "The median retail cost of the product line is $20.40.",
+        "Loyal members who purchase online save more than 50% off the cost of their total purchases and shipping compared to nonmembers.",
+        "The minimum purchase amount within the 6-month introductory period is less than the $50.00 charge issued to accounts that are canceled early."
+      ],
+      "correct_answer": [
+        "No",
+        "Yes",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 13,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "If the information contained in all three sources is correct, the member price of an item that retails for $65.00 will be closest to:",
+      "options": [
+        "$26.00",
+        "$28.70",
+        "$32.40",
+        "$39.00",
+        "$47.50"
+      ],
+      "correct_answer": "$39.00",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 14,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "The information in the table and graph most strongly indicates that which one of the following is true of the loans in the table?",
+      "options": [
+        "A greater number of zero–interest rate loans were negotiated in the village with the highest average annual interest rate than in the village with the second-highest rate.",
+        "A greater number of zero–interest rate loans than positive–interest rate loans were negotiated.",
+        "At least one zero–interest rate loan of fixed duration was used for consumption.",
+        "In more than half of the villages with average annual interest rates ranging from 20% to 30%, zero–interest rate loans predominated.",
+        "Among loans that were not zero–interest rate loans, the majority were issued at interest rates of less than 40%."
+      ],
+      "correct_answer": "A greater number of zero–interest rate loans than positive–interest rate loans were negotiated.",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 15,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "If one of the loans in the survey is considered at random, with no prior knowledge of the village in which it was issued, which of the following factors would, if known, increase the probability that the loan is a zero–interest rate loan? Select Yes for each option that applies on the basis of the given information. Otherwise, select No.",
+      "options": [
+        "The village’s mean annual interest rate in 1935 was greater than 45%.",
+        "The lender anticipated that the borrower would be unable to supply land, labor, or draft animal services in the future.",
+        "The village’s mean annual interest rate in 1935 was less than 20%."
+      ],
+      "correct_answer": [
+        "Yes",
+        "No",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 16,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "According to the information provided, a lender who offered one of the zero–interest rate loans included in the table would accurately be described as making which of the following trade-offs? Select Yes for each option that applies. Otherwise, select No.",
+      "options": [
+        "Giving up a fixed duration of repayment in exchange for security",
+        "Giving up interest payments in exchange for security",
+        "Giving up interest payments in exchange for access to other resources"
+      ],
+      "correct_answer": [
+        "No",
+        "No",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 17,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Which of the following can be reasonably inferred from the data provided?",
+      "options": [
+        "John’s MSLT results fall within normal guidelines.",
+        "Angel has exaggerated her claim of daytime sleepiness.",
+        "Ramesh may suffer from some type of sleep disorder.",
+        "John does not suffer from a sleep disorder.",
+        "Sara suffers from fatigue, not excessive daytime sleepiness."
+      ],
+      "correct_answer": "Ramesh may suffer from some type of sleep disorder.",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 18,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Based on the information presented, some of the patients have MSLT data that could be misleading and others do not. For the following statements, select Yes if the scenario provided would change that status for any of the five patients. Otherwise, select No.",
+      "options": [
+        "There was a major noise disturbance in the sleep center on 6/17/17.",
+        "None of the patients who had a sleep test after 6/17 suffered from anxiety during the test.",
+        "All of the patients less than 50 years of age had atypical sleep the night before the test."
+      ],
+      "correct_answer": [
+        "No",
+        "No",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 19,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For the following statements, select True if the statement is inferable from the data provided. Otherwise, select False.",
+      "options": [
+        "60% of the participants had a mean sleep latency of less than 8 minutes.",
+        "Only one of the five patients had results that indicate severe excessive daytime sleepiness.",
+        "It is possible that Sara suffers from fatigue rather than excessive daytime sleepiness."
+      ],
+      "correct_answer": [
+        "True",
+        "False",
+        "True"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 20,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements, select YES if the statement can be inferred to be true on the basis of the information provided. Otherwise, select NO.",
+      "options": [
+        "The new cable deployment costs of both FTTH and HFC networks depend on the number of homes served by the networks.",
+        "Labor expenses comprise the majority of the costs associated with the new cable deployment for HFC.",
+        "An HFC network installation involves a smaller installation cost per home than FTTH."
+      ],
+      "correct_answer": [
+        "No",
+        "Yes",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 21,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "According to the information provided, which of the following attributes is an advantage of HFC network architecture as compared with FTTH architecture?",
+      "options": [
+        "Lower new cable deployment costs",
+        "Lower maintenance expenses",
+        "Greater longevity of coaxial cable",
+        "95% lower internal equipment deployment costs",
+        "90% lower customer installation costs"
+      ],
+      "correct_answer": "95% lower internal equipment deployment costs",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 22,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements, select SUPPORTED if the statement is supported by the information given. Otherwise, select NOT SUPPORTED.",
+      "options": [
+        "If the town only considers cost over the first 10 years, the FTTH option is best.",
+        "If the town only considers cost over the first 20 years, the FTTH option is best.",
+        "If cost is not considered, the FTTH option is best."
+      ],
+      "correct_answer": [
+        "Not Supported",
+        "Supported",
+        "Supported"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 23,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Consider a meal consisting of a standard portion of each of the following: white fish, baked potato, butter, mixed salad with dressing, whole wheat bread, and raw apple. For each of the following statements, select TRUE if the statement can be concluded from the information. Otherwise, select FALSE.",
+      "options": [
+        "This meal provides more than one-half of the Dietary Guidelines’s daily recommended protein for a man.",
+        "This meal provides more than one-third of the Dietary Guidelines’s daily recommended calories for a woman but fewer than one-third of the daily recommended calories for a man.",
+        "This meal fits the food bank’s definition of a major meal for either a man or a woman."
+      ],
+      "correct_answer": [
+        "True",
+        "True",
+        "False"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 24,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "According to the information in the tabs, and assuming a single standard portion of each kind of food, which of the following meals provides the highest amount of dietary fiber?",
+      "options": [
+        "Lean meat, whole wheat pasta, mixed salad with dressing, orange.",
+        "Lean meat, baked potato, butter, mixed vegetables, orange.",
+        "Lean poultry, baked potato, margarine, cooked peas, whole wheat bread, apple.",
+        "Tilapia fish, baked potato, butter, mixed vegetables, whole wheat bread, apple.",
+        "White fish, whole wheat pasta, mixed salad with dressing, whole wheat bread, orange."
+      ],
+      "correct_answer": "Lean poultry, baked potato, margarine, cooked peas, whole wheat bread, apple.",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 25,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Consider a meal consisting of one standard portion of each of the following: lean meat, whole wheat pasta, and mixed vegetables. Consider each of the statements below separately and choose TRUE if the statement is accurate based on the information provided. Otherwise, choose FALSE.",
+      "options": [
+        "More than half of the meal’s total calories come from whole wheat pasta.",
+        "Adding a standard portion of boiled eggs would increase the total protein content of the meal by more than 20%.",
+        "If the whole wheat pasta were removed and replaced with one standard portion each of whole wheat bread and potatoes, the total carbohydrate content of the meal would be increased."
+      ],
+      "correct_answer": [
+        "False",
+        "True",
+        "True"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 26,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "The proposed transaction structure offered by the buyer comprises what percentage of the deal in stock?",
+      "options": [
+        "0%",
+        "20%",
+        "25%",
+        "50%",
+        "100%"
+      ],
+      "correct_answer": "0%",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 27,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements, choose Definitely True if the statement is absolutely true. Choose Possibly True if the statement can be true but might not necessarily be true all the time.",
+      "options": [
+        "The seller's original selling price is greater than the revised offer from the buyer in 'Email 3'.",
+        "Annual revenues for the selling business exceed $2M.",
+        "The seller's business was worth less than $20M last year."
+      ],
+      "correct_answer": [
+        "Possibly True",
+        "Definitely True",
+        "Possibly True"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 28,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Consider each of the following statements. Does the information in the three articles support the inference as stated?",
+      "options": [
+        "The buyer does not believe existing management in the target company has the expertise to grow the business into its next stage.",
+        "The sellers' asking price for their business is at least $30M.",
+        "It is possible for the buyer and seller to make a deal in which neither side needs to change its opening offer by more than 30%."
+      ],
+      "correct_answer": [
+        "Yes",
+        "No",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 29,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "The buyer refers to a 'transaction in cash only' primarily to",
+      "options": [
+        "give the sellers a more liquid form of payment, in gratitude for all the work they have done thus far.",
+        "deny the buyers the potential upside value of the future company.",
+        "introduce a new experienced team that would replace the incumbents during this next stage of growth for the company.",
+        "reward the sellers for the company they have created thus far while denying them a right to have an ownership stake or operational role after the company is acquired.",
+        "explain the importance of the strategic step of replacing existing management."
+      ],
+      "correct_answer": "reward the sellers for the company they have created thus far while denying them a right to have an ownership stake or operational role after the company is acquired.",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 30,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements, select Yes if true. Otherwise, select No.",
+      "options": [
+        "Buyer feels the target company's initial selling price is too high.",
+        "Seller feels his company's 'revenue multiple' is greater than 8x.",
+        "A 100% cash acquisition of the target company would still enable the founding entrepreneurs to continue working for the company they created."
+      ],
+      "correct_answer": [
+        "Yes",
+        "Yes",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 31,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "It can be inferred that",
+      "options": [
+        "Only the company founder would be interested in launching new games in the next year.",
+        "All three partners believe that the development costs for Xanthia have been above the average for the company's games.",
+        "Less than $150,000 has been spent on marketing Xanthia in the current year."
+      ],
+      "correct_answer": [
+        "No",
+        "Yes",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 32,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "It can be inferred that",
+      "options": [
+        "The attitudes of the finance and marketing experts to development costs are more similar to each other than to the views of the company founder.",
+        "It is probable that one of the main points on the agenda for the meeting is marketing strategies."
+      ],
+      "correct_answer": [
+        "Yes",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 33,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "The poetry of which of the following is most likely to have been performed with musical accompaniment?",
+      "options": [
+        "Callinus",
+        "Semonides",
+        "Solon",
+        "Stesichorus",
+        "Hipponax"
+      ],
+      "correct_answer": "Stesichorus",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 34,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements about a newly discovered poem that was composed in the choliambic meter, select Yes if it can be reasonably inferred from the given information. Otherwise, select No.",
+      "options": [
+        "It is probably not a love song.",
+        "It was probably not composed in the 7th century.",
+        "It would not have been performed to musical accompaniment."
+      ],
+      "correct_answer": [
+        "Yes",
+        "Yes",
+        "No"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 35,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements about the newly discovered manuscripts, select Yes if it can be reasonably inferred from the given information. Otherwise, select No.",
+      "options": [
+        "The poems in the manuscripts were most likely composed in 700 BCE or later.",
+        "A poem referring to Greece’s mythical past could not have been composed by any of the major lyric poets.",
+        "The love poems discovered in the manuscripts were probably not composed in the 5th century BCE."
+      ],
+      "correct_answer": [
+        "Yes",
+        "No",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 36,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements, select Yes if it can be inferred from the given information that the College has chosen to support its student body by the method described in the statement. Otherwise, select No.",
+      "options": [
+        "Increasing its average financial aid package each year over the past 25 years",
+        "Not charging higher tuition",
+        "Maintaining a low student-to-faculty ratio"
+      ],
+      "correct_answer": [
+        "Yes",
+        "No",
+        "Yes"
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 37,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "Approximately what was the total amount of financial aid that the College offered to its students in 2010?",
+      "options": [
+        "1.6 million",
+        "2.5 million",
+        "21.6 million",
+        "26.9 million",
+        "48 million"
+      ],
+      "correct_answer": "26.9 million",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 38,
+      "section": "Data Insight",
+      "subtype": "Multi Source Reasoning",
+      "question": "For each of the following statements, select Yes if the statement is reasonably inferable from the information provided. Otherwise, select No.",
+      "options": [
+        "If in 2011 the average financial aid package is the same as it was in 2010, the class of ’02 will fund a full scholarship if half the members of the class contribute at least $187.50 on average.",
+        "The total amount that the class of ’02 contributed to the Annual Fund in 2010 would have been sufficient to fund one full scholarship in 2000.",
+        "165 of the members of the class of ’02 contributed to the Alumni Fund in 2010."
+      ],
+      "correct_answer": [
+        "Yes",
+        "Yes",
+        "No"
+      ],
+      "difficulty": "Medium"
+    }
+  ]
+}
