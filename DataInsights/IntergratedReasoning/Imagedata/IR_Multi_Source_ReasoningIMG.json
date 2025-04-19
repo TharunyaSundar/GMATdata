@@ -1,3 +1,340 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "question_id": 1,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p1.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q1.png",
+      "correct_answer": [ 
+        [
+          "After acquiring WFLN’s collection, WRTI allocated more total airtime per week to classical music than to jazz.: Not Supported",
+          "From 1997 through 2005, WRTI had a greater percent increase in its average-quarter-hour (AQH) listenership than in its number of members.: Not Supported",
+          "The average contribution per member changed by less than 10% from 1997 to 2005: Supported"
+        ],
+        [
+          "Addition of classical music programming: Positive Impact",
+          "Lack of direct competition in classical music broadcasting: Positive Impact",
+          "Hiring of a chief financial officer and a membership director: Positive Impact"
+        ],
+        ["1998 had the lowest average contribution per member between 1997 and 2005."]
+       ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 2,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p2.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q2.png",
+      "correct_answer": [ 
+        [
+          "Meat from Agna from the AD 500s to the AD 600s: No",
+          "Meat from Agna from the AD 800s to the AD 900s: Yes",
+          "Grain from Cussaia from the AD 600s to the AD 700s: Yes"
+        ],
+        [
+          "Barras's population increased from the AD 600s to 1200s: No",
+          "Agna grew no grain.: No",
+          "Cussaia traded directly only with Barras.: No"
+        ],
+        ["16,000"]
+       ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 3,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p3.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q3.png",
+      "correct_answer": [ 
+        [
+          "Availability bias: Contributed Significantly",
+          "Home Bias: Did not contribute significantly/indeterminate",
+          "Status Quo Bias: Did not contribute significantly/indeterminate"
+        ],
+        [
+          "Aggressively stimulating the national economy and thus increasing Swedish stock prices for several years: Yes",
+          "Eliminating taxpayers’ ability to concentrate their investments in stocks from any one country: Yes",
+          "Downplaying reports of rapidly rising stocks and highlighting a diverse array of stable stocks: Yes"
+        ],
+        ["Most taxpayers chose Swedish stocks over foreign stocks whose prices had been rising even more rapidly."]
+       ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 4,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p4.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q4.png",
+      "correct_answer": [ 
+        [
+          "City C, City D, City F"
+        ],
+        [
+          "The legal team evaluates risks that may affect both project feasibility and investment security.: Yes",
+          "Risk of significant project delays may deem an investment not feasible.: Yes",
+          "The legal team only considers current political and economic conditions when assessing investment risk.: No"
+        ],
+        ["City D meets the financial criteria but is not recommended for investment based on the legal team’s review.: True",
+        "Cities C and F are the only investment opportunities that remain viable after all criteria are applied.: True",
+        "City E fails to meet both the financial criteria and the legal team’s risk guidelines.: True"
+       ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 5,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p5.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q5.png",
+      "correct_answer": [ 
+        [
+          "55"
+        ],
+        [
+          "Clock: No",
+          "Compass: No",
+          "Boat: Yes"
+        ],
+        [
+          "The total exchange value of these items is 40 coins.: Yes",
+          "Exchanging the Bottle and the Rope will provide the player with sufficient funds to purchase 1 Boat.: Yes",
+          "These items alone are sufficient to solve the Ocean puzzle.: No"
+       ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 6,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p6.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q6.png",
+      "correct_answer": [ 
+        [
+          "Year 5"
+        ],
+        [
+          "Predicted revenue from sales of Formulas B and C for Year 11 is less than total R&D expenditures for Year 10.: Sufficient information",
+          "Predicted total revenue for Year 11 is greater than total revenue for Year 10.: Insufficient information",
+          "Predicted total R&D expenditures for Year 11 are less than total R&D expenditures for Year 10.: Insufficient information"
+        ],
+        [
+          "The company's total R&D expenditures were greater than those for any other year of the6-year exclusively period for Formula A.: No",
+          "The company's total R&D expenditures were greater than 10% of the company's total revenue.: No",
+          "Revenue from sales of Formula A accounted for more than 50% of the company's total revenue.: No"
+       ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 7,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p7.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q7.png",
+      "correct_answer": [ 
+        [
+          "The Lark: No",
+          "The Tulip: No",
+          "The Attic: Yes"
+        ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 8,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p8.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q8.png",
+      "correct_answer": [ 
+        [
+          "Improper operation of protective relay equipment"
+        ],
+        [
+          "Emergency procedures may be needed during both moderate and extreme space weather events.: Not Inferred",
+          "The electric-power grid is capable of transferring both direct current and alternating current to Extra High Voltage transformers.: Inferred",
+          "Extra High Voltage transformers are vulnerable to disruption during space weather events.: Inferred"
+        ],
+        [
+          "Communication satellites: Not Affected",
+          "Power generators: Affected",
+          "Static compensators: Affected"
+       ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 9,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p9.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q9.png",
+      "correct_answer": [ 
+        [
+          "Decreased iron absorption by phytoplankton will contribute to increased extinctions of sea life.: Projected",
+          "Increased iron absorption by phytoplankton will contribute to decreased oceanic CO2 concentrations.: Not Projected",
+          "Increased atmospheric CO2 concentrations will contribute to decreased ocean water pH: Projected"
+        ],
+        [
+          "The pH of the deep ocean will be greater than 7.9."
+
+        ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 10,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p10.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q10.png",
+      "correct_answer": [ 
+        [
+          "31K"
+        ],
+        [
+          "400K"
+        ],
+        [
+          "1.3%"
+        ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 11,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p11.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q11.png",
+      "correct_answer": [ 
+        [
+          "Plan A meets the minimum required percentage of open area on each floor.: Yes",
+          "Plan B meets the minimum required percentage of open area on each floor.: Yes",
+          "Plan C meets the minimum required percentage of open area on each floor.: Yes"
+        ],
+        [
+          "Plan A can accommodate 100 students per classroom.: True",
+          "Plan B meets the minimum required number of study rooms.: True",
+          "Plan C meets the minimum required number of study rooms.: False"
+        ],
+        [
+          "Plan A and Plan B"
+        ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 12,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p12.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q12.png",
+      "correct_answer": [ 
+        [
+          "Blend 1: 10 g of pecans: No",
+          "Blend 2: 40 g of pecans: No",
+          "Blend 3: 90 g of pecans: Yes"
+        ],
+        [
+          "The blend violates the nutritional-profile condition for dietary fiber."
+        ],
+        [
+          "Its carbohydrate content is less than 10 g.: Yes",
+          "Its protein content is less than 6 g.: Yes",
+          "Its dietary fiber content is less than 4 g.: Yes"
+        ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 13,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p13.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q13.png",
+      "correct_answer": [ 
+        [
+          "Tony and Rahul: No",
+          "Tony and Uday: No",
+          "Rahul and Xavier: Yes"
+        ],
+        [
+          "Xavier"
+        ],
+        [
+          "Tony"
+        ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 14,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p14.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q14.png",
+      "correct_answer": [ 
+        [
+          "The two groups are more different from one another in their grammatical features than some groups of neighboring Austronesian languages are.: YES",
+          "They have few words, if any, determined by the researchers to be the same as words of the others.: YES",
+          "They evolved more recently than did Jabem or Gapapalwa, spoken on Papua New Guinea.: NO"
+        ],
+        [
+          "Lavukaleve and Kuot may be less closely related than the language tree shows them as being."
+        ],
+        [
+          "Yélî Dnye is more closely related in grammar to Rotokas than to Nasioi.: Yes",
+          "The languages of Bougainville grammatically fall in between those of the Solomon Islands and the Bismarcks.: No",
+          "Kuot originates from a predominant language that was spoken where Mali is now spoken.: No"
+        ]
+      ],
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 15,
+      "section": "Data Insight",
+      "subtype": "Intergrated Reasoning",
+      "subtype-subtype": "Multi Source Reasoning",
+      "paragraph_id": ["DataInsights/IntergratedReasoning/Imagedata/MSRimages/p15.png"],
+      "question": "DataInsights/IntergratedReasoning/Imagedata/MSRimages/q15.png",
+      "correct_answer": [ 
+        [
+          "Divide both the numerator and denominator by a."
+        ],
+        [
+          "9: No",
+          "10: No",
+          "12: Yes"
+        ],
+        [
+          "a′=yb: Yes",
+          "a′=b′: Yes",
+          "a+b<xa+yb: No"
+        ]
+      ],
+      "difficulty": "Medium"
+    }
+    
+  ]
 }
